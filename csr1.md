@@ -10,7 +10,7 @@ OS Version:   16.3.1
 ## Neighbors
 
 | Device | Local Interface | Neighbor | Neighbor Interface |
-|-----------------|----------|-------|-------------|
+|--------|-----------------|----------|--------------------|
 | csr1 | Gi4 | csr2.ntc.com | Gi4 |
 | csr1 | Gi1 | csr2.ntc.com | Gi1 |
 | csr1 | Gi1 | eos-spine1.ntc.com | Management1 |
